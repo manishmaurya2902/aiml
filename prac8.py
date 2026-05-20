@@ -11,3 +11,18 @@ print("precision: ", precision_score(x_true,x_pred))
 print("recall: ",recall_score(x_true,x_pred))
 print("accuracay: ",accuracy_score(x_true,x_pred))
 
+Confusion Matrix
+
+A confusion matrix is a table that shows:
+
+how many predictions were correct
+and where the model made mistakes.
+
+It compares:
+
+Actual values
+Predicted values
+
+
+
+
