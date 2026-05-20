@@ -15,3 +15,12 @@ grid.fit(X, y)
 
 print("Best parameters: ", grid.best_params_)
 print("Best Accuracy: ", grid.best_score_)
+
+
+# Cross-validation
+
+# Cross-validation is a way to check how well your machine learning model performs on unseen data.
+
+# Hyperparameter Tuning
+
+# Hyperparameters are settings you choose before training the model.
